@@ -1,4 +1,4 @@
-const db = require("../../data/db-Config");
+const db = require("../../data/db-config.js");
 /*
   If the user does not have a session saved in the server
 
